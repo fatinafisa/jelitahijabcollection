@@ -1,0 +1,52 @@
+body { 
+ background-color: #f2dcff; 
+} 
+ 
+h3 { 
+ text-decoration: none; 
+ color: #cc72ff; 
+} 
+ 
+h3 { 
+ margin: 0; 
+} 
+ 
+#container { 
+ background-color: floralwhite; 
+ margin-left: auto; 
+ margin-right: auto; 
+} 
+ 
+#header { 
+ background-color: #e7bdff; 
+ color: black; 
+ text-align: center; 
+} 
+ 
+#content { 
+ 
+ 
+} 
+ 
+#nav { 
+ width: 100px; 
+ padding: 50px; 
+ 
+ 
+ 
+} 
+ 
+#nav ul { 
+ list-style-type: none; 
+ padding: 0; 
+} 
+ 
+#main { 
+ width: 600px; 
+} 
+ 
+#footer { 
+ clear: both; 
+ padding: 150px; 
+ color: black; 
+ text-align: middle;
